@@ -5,6 +5,12 @@ body {
 	touch-action: none;
 }
 
+#info {
+    position: absolute;
+    top: 10px;
+    width: 100%;
+}
+
 #canvas {
     position: absolute;
     display: block;
